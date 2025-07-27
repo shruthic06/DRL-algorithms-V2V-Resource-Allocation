@@ -123,7 +123,6 @@ python main_test.py --config config/config_dis_07.yaml
 If you use this work in your research or projects, please cite the following IEEE publication:
 
 Performance Analysis of DRL Algorithms in V2V Resource Allocation
-Shruthi Chandrakumar, Harini C, Kezia M, Anusuya K. V
 [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10100573)
 
 

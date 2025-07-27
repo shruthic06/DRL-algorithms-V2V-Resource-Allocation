@@ -1,8 +1,6 @@
 
 # Performance Analysis of DRL Algorithms in V2V Resource Allocation
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 > Official implementation of the IEEE 2022 paper  
 > **"Performance Analysis of DRL Algorithms in V2V Resource Allocation"**
 
